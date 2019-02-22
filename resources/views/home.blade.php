@@ -91,7 +91,7 @@
         <div class="header-content">
             <div class="header-content-inner">
                 <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
-                <h1 id="homeHeading">HOME
+                <h1 id="homeHeading">HOME ROOMIES
                 </h1>
                 <hr>
                 <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
