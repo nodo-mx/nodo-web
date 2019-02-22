@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
     <head>
@@ -42,7 +43,11 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
+<<<<<<< HEAD
                 <a class="navbar-brand page-scroll" href="#page-top">Inicio Bootstrap</a>
+=======
+                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+>>>>>>> 9ff57edea61d09434729e446ae10e2f79d337973
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -88,7 +93,12 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
+<<<<<<< HEAD
                 <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+=======
+                <h1 id="homeHeading">HOME
+                </h1>
+>>>>>>> 9ff57edea61d09434729e446ae10e2f79d337973
                 <hr>
                 <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
