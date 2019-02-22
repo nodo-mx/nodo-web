@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Creative - Start Bootstrap Theme</title>
+        <title>Node MX - Inicio</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="{{ asset('css/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
