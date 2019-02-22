@@ -65,7 +65,7 @@
                     @if (Route::has('login'))
                         @auth
                             <li>
-                                <a class="page-scroll" href="{{ url('/home') }}">Home</a>
+                                <a class="page-scroll" href="{{ url('/home') }}">Home ROOMIES</a>
                             </li>
                         @else
 
